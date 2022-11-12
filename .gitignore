@@ -1,0 +1,5 @@
+*.DS_Store
+.idea
+.venv
+Classes/__pycache__
+Classes/.DS_Store
